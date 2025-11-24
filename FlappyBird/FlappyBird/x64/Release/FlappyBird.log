@@ -1,0 +1,285 @@
+﻿  AssetManager.cpp
+  Bird.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'Bird.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'Bird.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+  Collision.cpp
+  Flash.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'Flash.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'Flash.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\Flash.cpp(7,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FlappyBird\Flash.cpp(7,94): warning C4244:         with
+D:\FlappyBird\Flash.cpp(7,94): warning C4244:         [
+D:\FlappyBird\Flash.cpp(7,94): warning C4244:             T=unsigned int
+D:\FlappyBird\Flash.cpp(7,94): warning C4244:         ]
+D:\FlappyBird\Flash.cpp(7,94): warning C4244:         and
+D:\FlappyBird\Flash.cpp(7,94): warning C4244:         [
+D:\FlappyBird\Flash.cpp(7,94): warning C4244:             T=float
+D:\FlappyBird\Flash.cpp(7,94): warning C4244:         ]
+D:\FlappyBird\Flash.cpp(7,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FlappyBird\Flash.cpp(7,67): warning C4244:         with
+D:\FlappyBird\Flash.cpp(7,67): warning C4244:         [
+D:\FlappyBird\Flash.cpp(7,67): warning C4244:             T=unsigned int
+D:\FlappyBird\Flash.cpp(7,67): warning C4244:         ]
+D:\FlappyBird\Flash.cpp(7,67): warning C4244:         and
+D:\FlappyBird\Flash.cpp(7,67): warning C4244:         [
+D:\FlappyBird\Flash.cpp(7,67): warning C4244:             T=float
+D:\FlappyBird\Flash.cpp(7,67): warning C4244:         ]
+D:\FlappyBird\Flash.cpp(21,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\FlappyBird\Flash.cpp(25,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\FlappyBird\Flash.cpp(33,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\FlappyBird\Flash.cpp(37,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+D:\FlappyBird\Game.cpp(12,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOverState.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'GameOverState.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'GameOverState.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\GameOverState.cpp(66,164): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FlappyBird\GameOverState.cpp(66,164): warning C4244:         with
+D:\FlappyBird\GameOverState.cpp(66,164): warning C4244:         [
+D:\FlappyBird\GameOverState.cpp(66,164): warning C4244:             T=float
+D:\FlappyBird\GameOverState.cpp(66,164): warning C4244:         ]
+D:\FlappyBird\GameOverState.cpp(67,206): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FlappyBird\GameOverState.cpp(67,206): warning C4244:         with
+D:\FlappyBird\GameOverState.cpp(67,206): warning C4244:         [
+D:\FlappyBird\GameOverState.cpp(67,206): warning C4244:             T=float
+D:\FlappyBird\GameOverState.cpp(67,206): warning C4244:         ]
+D:\FlappyBird\GameOverState.cpp(74,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FlappyBird\GameOverState.cpp(74,110): warning C4244:         with
+D:\FlappyBird\GameOverState.cpp(74,110): warning C4244:         [
+D:\FlappyBird\GameOverState.cpp(74,110): warning C4244:             T=float
+D:\FlappyBird\GameOverState.cpp(74,110): warning C4244:         ]
+D:\FlappyBird\GameOverState.cpp(74,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FlappyBird\GameOverState.cpp(74,76): warning C4244:         with
+D:\FlappyBird\GameOverState.cpp(74,76): warning C4244:         [
+D:\FlappyBird\GameOverState.cpp(74,76): warning C4244:             T=float
+D:\FlappyBird\GameOverState.cpp(74,76): warning C4244:         ]
+D:\FlappyBird\GameOverState.cpp(81,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FlappyBird\GameOverState.cpp(81,114): warning C4244:         with
+D:\FlappyBird\GameOverState.cpp(81,114): warning C4244:         [
+D:\FlappyBird\GameOverState.cpp(81,114): warning C4244:             T=float
+D:\FlappyBird\GameOverState.cpp(81,114): warning C4244:         ]
+D:\FlappyBird\GameOverState.cpp(81,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+D:\FlappyBird\GameOverState.cpp(81,80): warning C4244:         with
+D:\FlappyBird\GameOverState.cpp(81,80): warning C4244:         [
+D:\FlappyBird\GameOverState.cpp(81,80): warning C4244:             T=float
+D:\FlappyBird\GameOverState.cpp(81,80): warning C4244:         ]
+  GameState.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'GameState.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'GameState.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\GameState.cpp(402,51): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  HUD.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'HUD.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'HUD.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\HUD.cpp(19,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FlappyBird\HUD.cpp(19,96): warning C4244:         with
+D:\FlappyBird\HUD.cpp(19,96): warning C4244:         [
+D:\FlappyBird\HUD.cpp(19,96): warning C4244:             T=unsigned int
+D:\FlappyBird\HUD.cpp(19,96): warning C4244:         ]
+D:\FlappyBird\HUD.cpp(19,96): warning C4244:         and
+D:\FlappyBird\HUD.cpp(19,96): warning C4244:         [
+D:\FlappyBird\HUD.cpp(19,96): warning C4244:             T=float
+D:\FlappyBird\HUD.cpp(19,96): warning C4244:         ]
+D:\FlappyBird\HUD.cpp(19,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FlappyBird\HUD.cpp(19,65): warning C4244:         with
+D:\FlappyBird\HUD.cpp(19,65): warning C4244:         [
+D:\FlappyBird\HUD.cpp(19,65): warning C4244:             T=unsigned int
+D:\FlappyBird\HUD.cpp(19,65): warning C4244:         ]
+D:\FlappyBird\HUD.cpp(19,65): warning C4244:         and
+D:\FlappyBird\HUD.cpp(19,65): warning C4244:         [
+D:\FlappyBird\HUD.cpp(19,65): warning C4244:             T=float
+D:\FlappyBird\HUD.cpp(19,65): warning C4244:         ]
+  InputManager.cpp
+D:\FlappyBird\InputManager.cpp(11,135): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FlappyBird\InputManager.cpp(11,135): warning C4244:         with
+D:\FlappyBird\InputManager.cpp(11,135): warning C4244:         [
+D:\FlappyBird\InputManager.cpp(11,135): warning C4244:             T=float
+D:\FlappyBird\InputManager.cpp(11,135): warning C4244:         ]
+D:\FlappyBird\InputManager.cpp(11,135): warning C4244:         and
+D:\FlappyBird\InputManager.cpp(11,135): warning C4244:         [
+D:\FlappyBird\InputManager.cpp(11,135): warning C4244:             T=int
+D:\FlappyBird\InputManager.cpp(11,135): warning C4244:         ]
+D:\FlappyBird\InputManager.cpp(11,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FlappyBird\InputManager.cpp(11,103): warning C4244:         with
+D:\FlappyBird\InputManager.cpp(11,103): warning C4244:         [
+D:\FlappyBird\InputManager.cpp(11,103): warning C4244:             T=float
+D:\FlappyBird\InputManager.cpp(11,103): warning C4244:         ]
+D:\FlappyBird\InputManager.cpp(11,103): warning C4244:         and
+D:\FlappyBird\InputManager.cpp(11,103): warning C4244:         [
+D:\FlappyBird\InputManager.cpp(11,103): warning C4244:             T=int
+D:\FlappyBird\InputManager.cpp(11,103): warning C4244:         ]
+D:\FlappyBird\InputManager.cpp(11,75): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+D:\FlappyBird\InputManager.cpp(11,75): warning C4244:         with
+D:\FlappyBird\InputManager.cpp(11,75): warning C4244:         [
+D:\FlappyBird\InputManager.cpp(11,75): warning C4244:             T=float
+D:\FlappyBird\InputManager.cpp(11,75): warning C4244:         ]
+D:\FlappyBird\InputManager.cpp(11,75): warning C4244:         and
+D:\FlappyBird\InputManager.cpp(11,75): warning C4244:         [
+D:\FlappyBird\InputManager.cpp(11,75): warning C4244:             T=int
+D:\FlappyBird\InputManager.cpp(11,75): warning C4244:         ]
+D:\FlappyBird\InputManager.cpp(11,51): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+D:\FlappyBird\InputManager.cpp(11,51): warning C4244:         with
+D:\FlappyBird\InputManager.cpp(11,51): warning C4244:         [
+D:\FlappyBird\InputManager.cpp(11,51): warning C4244:             T=float
+D:\FlappyBird\InputManager.cpp(11,51): warning C4244:         ]
+D:\FlappyBird\InputManager.cpp(11,51): warning C4244:         and
+D:\FlappyBird\InputManager.cpp(11,51): warning C4244:         [
+D:\FlappyBird\InputManager.cpp(11,51): warning C4244:             T=int
+D:\FlappyBird\InputManager.cpp(11,51): warning C4244:         ]
+  Item.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'Item.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'Item.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\Item.cpp(69,69): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FlappyBird\Item.cpp(69,69): warning C4244:         with
+D:\FlappyBird\Item.cpp(69,69): warning C4244:         [
+D:\FlappyBird\Item.cpp(69,69): warning C4244:             T=unsigned int
+D:\FlappyBird\Item.cpp(69,69): warning C4244:         ]
+D:\FlappyBird\Item.cpp(75,25): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+D:\FlappyBird\Item.cpp(75,25): warning C4244:         with
+D:\FlappyBird\Item.cpp(75,25): warning C4244:         [
+D:\FlappyBird\Item.cpp(75,25): warning C4244:             T=unsigned int
+D:\FlappyBird\Item.cpp(75,25): warning C4244:         ]
+D:\FlappyBird\Item.cpp(76,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FlappyBird\Item.cpp(76,65): warning C4244:         with
+D:\FlappyBird\Item.cpp(76,65): warning C4244:         [
+D:\FlappyBird\Item.cpp(76,65): warning C4244:             T=unsigned int
+D:\FlappyBird\Item.cpp(76,65): warning C4244:         ]
+  Land.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'Land.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'Land.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\Land.cpp(29,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\FlappyBird\Land.cpp(29,50): warning C4244:         with
+D:\FlappyBird\Land.cpp(29,50): warning C4244:         [
+D:\FlappyBird\Land.cpp(29,50): warning C4244:             T=unsigned int
+D:\FlappyBird\Land.cpp(29,50): warning C4244:         ]
+D:\FlappyBird\Land.cpp(29,50): warning C4244:         and
+D:\FlappyBird\Land.cpp(29,50): warning C4244:         [
+D:\FlappyBird\Land.cpp(29,50): warning C4244:             T=float
+D:\FlappyBird\Land.cpp(29,50): warning C4244:         ]
+  main.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'main.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'main.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+  MainMenuState.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'MainMenuState.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'MainMenuState.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+  Pipe.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'Pipe.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'Pipe.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\Pipe.cpp(19,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FlappyBird\Pipe.cpp(19,51): warning C4244:         with
+D:\FlappyBird\Pipe.cpp(19,51): warning C4244:         [
+D:\FlappyBird\Pipe.cpp(19,51): warning C4244:             T=unsigned int
+D:\FlappyBird\Pipe.cpp(19,51): warning C4244:         ]
+D:\FlappyBird\Pipe.cpp(29,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\FlappyBird\Pipe.cpp(29,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FlappyBird\Pipe.cpp(29,51): warning C4244:         with
+D:\FlappyBird\Pipe.cpp(29,51): warning C4244:         [
+D:\FlappyBird\Pipe.cpp(29,51): warning C4244:             T=unsigned int
+D:\FlappyBird\Pipe.cpp(29,51): warning C4244:         ]
+D:\FlappyBird\Pipe.cpp(41,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\FlappyBird\Pipe.cpp(41,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FlappyBird\Pipe.cpp(41,51): warning C4244:         with
+D:\FlappyBird\Pipe.cpp(41,51): warning C4244:         [
+D:\FlappyBird\Pipe.cpp(41,51): warning C4244:             T=unsigned int
+D:\FlappyBird\Pipe.cpp(41,51): warning C4244:         ]
+D:\FlappyBird\Pipe.cpp(52,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\FlappyBird\Pipe.cpp(52,51): warning C4244:         with
+D:\FlappyBird\Pipe.cpp(52,51): warning C4244:         [
+D:\FlappyBird\Pipe.cpp(52,51): warning C4244:             T=unsigned int
+D:\FlappyBird\Pipe.cpp(52,51): warning C4244:         ]
+  SplashState.cpp
+D:\FlappyBird\DEFINITIONS.hpp(47,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'SplashState.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(46,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+D:\FlappyBird\DEFINITIONS.hpp(48,9): warning C4005: 'POWERUP_SOUND_FILEPATH': macro redefinition
+  (compiling source file 'SplashState.cpp')
+      D:\FlappyBird\DEFINITIONS.hpp(47,9):
+      see previous definition of 'POWERUP_SOUND_FILEPATH'
+  
+  StateMachine.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 997 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FlappyBird.vcxproj -> D:\FlappyBird\x64\Release\FlappyBird.exe
